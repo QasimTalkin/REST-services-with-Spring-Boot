@@ -30,4 +30,6 @@ build/
 ### VS Code ###
 .vscode/
 
-SringBoot-Notes.md
+
+#### Priv file
+Notes.md
